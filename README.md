@@ -1,1 +1,1 @@
-# <strong>Codewars</strong>
+# <strong>Codewars:</strong> Python Challenges
